@@ -1,4 +1,4 @@
-
+custom Obsidian for Windows Addon | templates + cloud-sync offers the most advanced Obsidian for Windows addon, with templates and cloud-sync. Ideal for Windows professionals.
 
 
 
